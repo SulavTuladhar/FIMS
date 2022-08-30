@@ -1,0 +1,19 @@
+
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input{
+    padding-left: 0.6vw;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #000;
+    margin-bottom: 2vh;
+}
+
+button{
+    margin-top: 2vh;
+}
